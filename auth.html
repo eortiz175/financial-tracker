@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Financial Tracker - Login</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="auth-body">
+    <div class="auth-container">
+        <div class="auth-card">
+            <h1>🔒 Financial Tracker</h1>
+            <p class="auth-subtitle">Enter your password to access your financial data</p>
+            
+            <div class="form-group">
+                <input type="password" id="password" placeholder="Enter your password" class="auth-input">
+            </div>
+            
+            <button onclick="checkPassword()" class="btn-primary auth-btn">Login</button>
+            
+            <div id="auth-error" class="error-message"></div>
+            
+            <div class="auth-footer">
+                <p><small>Forgot password? You'll need to check the source code.</small></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="auth.js"></script>
+</body>
+</html>

@@ -1,7 +1,7 @@
 // auth.js
 const AUTH_CONFIG = {
     // Change this password!
-    PASSWORD: 'YourSecurePassword123',
+    PASSWORD: '3442Dink&72!',
     STORAGE_KEY: 'financial_tracker_auth'
 };
 

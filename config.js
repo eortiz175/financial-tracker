@@ -5,11 +5,11 @@
 
 const CONFIG = {
     // Get this from your Google Sheet URL
-    SPREADSHEET_ID: 'your_spreadsheet_id_here',
+    SPREADSHEET_ID: '1oZj6pqvsK0vH72IpRM9Y8ZFtgH7D6To_IsKmCbfxitQ',
     
     // Get these from Google Cloud Console
-    API_KEY: 'your_api_key_here',
-    CLIENT_ID: 'your_client_id_here',
+    API_KEY: '555bfa545d92f9ab29ce1683ee2d5f43af3dea51',
+    CLIENT_ID: 'financial-tracker-service@financial-tracker-mannie.iam.gserviceaccount.com',
     
     // App version
     VERSION: '1.0.0',

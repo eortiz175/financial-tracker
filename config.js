@@ -21,7 +21,7 @@ const CONFIG = {
     ],
     
     // Password for auth (change this!)
-    APP_PASSWORD: 'YourSecurePassword123'
+    APP_PASSWORD: '3442Dink&72!'
 };
 
 // For GitHub Pages, we'll need to handle credentials differently
